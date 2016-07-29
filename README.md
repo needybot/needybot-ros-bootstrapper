@@ -1,4 +1,4 @@
-# ros-indigo-bootstrap
+# needybot-ros-bootstrapper
 Performs a complete installation of ROS Indigo on Ubuntu 12.04/14.04 LTS
 systems.
 

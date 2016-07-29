@@ -24,5 +24,12 @@ $ /bin/bash ros-bootstrap.bash
 This will install all of the dependencies (including catkin) needed to run ROS
 Indigo.
 
-##License
-Licensed under the BSD 3-clause license. 
+Contributing
+------------
+
+See our contribution guidelines [here](CONTRIBUTION_GUIDELINES.md).
+
+License
+-------
+
+This project is release under Apache 2.0. Please see the [LICENSE](LICENSE) file for more details.
